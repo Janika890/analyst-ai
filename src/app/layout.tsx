@@ -10,6 +10,9 @@ const geist = Geist({
 export const metadata: Metadata = {
   title: "Analyst AI | Website Analyzer",
   description: "AI-powered website analysis — SEO, technical, content insights",
+  verification: {
+    google: "2C3D8TlEzNAwhveNi8P2NOK8Uc2-5zBQZIV-1gn3jbI",
+  },
 };
 
 export default function RootLayout({
